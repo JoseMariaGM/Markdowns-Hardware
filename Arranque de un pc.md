@@ -20,6 +20,7 @@
 - La CPU recibe corriente, sin ayuda de la RAM lee el mini-S.O. de la EEPROM de la BIOS.
 
 ## Paso 5:
-Se ejecuta el **POST**(Power On Self Test) - Todo Ok ( 1 pitido largo)
-                                           - Algo K.O. (Pitido según tabla del manual)
+Se ejecuta el **POST**(Power On Self Test):
+- Todo Ok ( 1 pitido largo)
+- Algo K.O. (Pitido según tabla del manual)
                                            
