@@ -1,4 +1,4 @@
-Documentación de instalación Debian.
+<h1>Documentación de instalación Debian.<h1>
 
 Utilizamos un USB con la ISO de Debian que queramos instalar.
 
