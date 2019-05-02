@@ -1,6 +1,6 @@
 # Documentación de instalación Debian.
 
-Utilizamos un USB con la ISO de Debian que queramos instalar.
+Utilizamos un *USB* con la **ISO** de Debian que queramos instalar.
 
 Una vez hayamos entrado en la instalación, empezaremos eligiendo el apartado "Graphical Debian install".
 
@@ -15,7 +15,7 @@ La **Localización** será Europe, Spain la hora también.
 
 Después de esto, empezará a correr la configuración de red.
 
-A continuación ponemos el usuario y contraseña.
+A continuación ponemos el usuario y contraseña:
 - user -> guest
 - passw -> guest
 - superuser -> root
